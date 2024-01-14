@@ -121,3 +121,5 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 13. Array (Given by Jannat Lam)
 - [Handle Array Key](https://stackoverflow.com/questions/16675753/fastest-way-to-handle-undefined-array-key)
 - (Code) `array_key_exists()`
+
+14. ![only table data delete table steel lives](Screenshot_3.png)
