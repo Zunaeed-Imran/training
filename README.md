@@ -13,5 +13,9 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [Laravel 8 REST API With Sanctum Authentication](https://youtu.be/MT-GJQIY3EU?si=vxC_zWp8oVoAjrsA)
 - [School Management System in Laravel 10](https://youtube.com/playlist?list=PLoBGtBK7uqyUIUVGD_cOAmVCprfn5LMJ2&si=F-SsyxgnHjOQe0ze)
 
-3. Laravel Documentation. (All Given By Julius Bhai)
-- 
+3. Learn from Laravel documentation. (All Given By Julius Bhai)
+- [Request Lifecycle:](https://laravel.com/docs/10.x/lifecycle)
+- [Service Container:](https://laravel.com/docs/10.x/container)
+- [Service Provider:](https://laravel.com/docs/10.x/providers)
+- [Facade:](https://laravel.com/docs/10.x/facades)
+- [Routing:]()
