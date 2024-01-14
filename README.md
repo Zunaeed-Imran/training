@@ -11,4 +11,4 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [Laravel 5.2 (PHP) - Create a Social Network (Full App)](https://youtube.com/playlist?list=PL55RiY5tL51oloSGk5XdO2MGjPqc0BxGV&si=VEg9FYlQD35nDtV9)
 - [Laravel From Scratch 2022 | 4+ Hour Course](https://youtu.be/MYyJ4PuL4pY?si=3vQ5uzStDFGWgkVm)
 - [Laravel 8 REST API With Sanctum Authentication](https://youtu.be/MT-GJQIY3EU?si=vxC_zWp8oVoAjrsA)
-- 
+- [School Management System in Laravel 10](https://youtube.com/playlist?list=PLoBGtBK7uqyUIUVGD_cOAmVCprfn5LMJ2&si=F-SsyxgnHjOQe0ze)
