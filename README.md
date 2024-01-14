@@ -102,3 +102,10 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 10. Regular Expression (Given By Julius Bhai)
 - [Learn Regular Expressions In 20 Minutes](https://youtu.be/rhzKDrUiJVk?si=p9SvunmVHrdD_w1D)
 
+11. Free Web Hosting (All Given By Julius Bhai)
+- [000webhost](https://www.000webhost.com/)
+- [1freehosting](https://www.1freehosting.com/)
+- [Award Space](https://www.awardspace.com/)
+- [Freehosting](https://freehosting.com/)
+- [InfinityFree](https://www.infinityfree.com/)
+- [netlify](https://www.netlify.com/)
