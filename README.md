@@ -125,5 +125,7 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 14. Sql Table Query Statement (All Learn from Bro-Code Youtube Channel)
 - Only table data delete table steel lives (truncate table)
 - ![only table data delete table steel lives](Screenshot_3.png)
-- find customer with name. only one row to show
+- Find customer with name. only one row to show
 - ![find customer with name](Screenshot_1.png)
+- Show customer with Two property name
+- ![Show customer with Two property name](Screenshot_2.png)
