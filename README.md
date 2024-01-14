@@ -98,3 +98,7 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [Introduction to Microsoft Excel - Excel Basics Tutorial](https://youtu.be/fcbB0nkDik8?si=RvnNr9XRawu_SsOI)
 - [Microsoft Excel Tutorial - Beginners Level 1](https://youtu.be/k1VUZEVuDJ8?si=t-_z4wrHCGgUU66S)
 - [Excel Full Bangla Tutorial | Complete Microsoft Excel Tutorial in Bangla](https://youtu.be/tvph9RuZvUg?si=GwOMNIkXmZcBEzKz)
+
+10. Regular Expression (Given By Julius Bhai)
+- [Learn Regular Expressions In 20 Minutes](https://youtu.be/rhzKDrUiJVk?si=p9SvunmVHrdD_w1D)
+
