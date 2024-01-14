@@ -42,3 +42,17 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [Eloquent:](https://laravel.com/docs/10.x/eloquent)
 - [Eloquent Relationship:](https://laravel.com/docs/10.x/eloquent-relationships)
 - [Eloquent Accessor & Mutator:](https://laravel.com/docs/10.x/eloquent-mutators)
+
+4. Improvements for social network project. (Said by Julius Brother)
+
+- Hide account or logout menu items or links when not authenticated.
+- Restrict access to account or logout page or url when not authenticated.
+- Hide register or login menu items or links for authenticated user.
+- Restrict access to register or login page or url when authenticated.
+- Hide like or dislike action buttons for own posts.
+- Show existing image when first name is changed.
+- Show blog menu item or link in navbar.
+- Show notifications for curtain duration or ability to close.
+- Allow either like or dislike action on post.
+- Show conformation window before deleting post.
+- Show post create/update date & time with timezone.
