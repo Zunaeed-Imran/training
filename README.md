@@ -71,3 +71,17 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [SQL Basics for Beginners | Learn SQL | SQL Tutorial for Beginners | Edureka](https://youtu.be/zbMHLJ0dY4w?si=d5qOzG7M1R-pS2Hu)
 - [MySQL Tutorial for Beginners [Full Course]](https://youtu.be/7S_tz1z_5bA?si=VOpz6Al-50htzmyu)
 - [MySQL Full Course for free :dolphin: (2023)](https://youtu.be/5OdVJbNCSso?si=JFq4GjocTrrIXIe7)
+
+7. Learn SQL query. (SQL Database) (Said By Julius Brother)
+- Insert
+- Update
+- Delete
+- Select
+- Where
+- Limit
+- Order
+- Distinct
+- Group
+- Count
+- Join
+
