@@ -56,3 +56,11 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - Allow either like or dislike action on post.
 - Show conformation window before deleting post.
 - Show post create/update date & time with timezone.
+
+5. PHP (All Given By Julius Bhai)
+
+- [PHP Crash Course For Beginners | 2020](https://youtu.be/6mO1UA1r-6Q?si=LLs7U8PomTgDj6Al)
+- [PHP For Absolute Beginners In Bangla | PHP Crash Course In 2 Hours](https://youtu.be/_TST9dVptls?si=A4PwL_hallQg-dII)
+- [PHP For Beginners | 3+ Hour Crash Course](https://youtu.be/BUCiSSyIGGU?si=wLdTwAvXQavJ9vJR)
+- [Full PHP 8 Tutorial - Learn PHP The Right Way In 2023](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=cvGhwsL9qiOGeAtH)
+- [PHP Course With Blog Project In Bangla](https://youtube.com/playlist?list=PLaCUFUZ_YQwVGxKqjXaQcWEeTMIWeEFjX&si=m0OIp0DTR8qFJgyR)
