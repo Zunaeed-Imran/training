@@ -43,7 +43,7 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [Eloquent Relationship:](https://laravel.com/docs/10.x/eloquent-relationships)
 - [Eloquent Accessor & Mutator:](https://laravel.com/docs/10.x/eloquent-mutators)
 
-4. Improvements for social network project. (Said by Julius Brother)
+4. Improvements for social network project.(Laravel Project) (Said by Julius Brother)
 
 - Hide account or logout menu items or links when not authenticated.
 - Restrict access to account or logout page or url when not authenticated.
