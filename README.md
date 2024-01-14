@@ -9,4 +9,5 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 
 2. Laravel Tutorial (Given by julius bhai)
 - [Laravel 5.2 (PHP) - Create a Social Network (Full App)](https://youtube.com/playlist?list=PL55RiY5tL51oloSGk5XdO2MGjPqc0BxGV&si=VEg9FYlQD35nDtV9)
+- [Laravel From Scratch 2022 | 4+ Hour Course](https://youtu.be/MYyJ4PuL4pY?si=3vQ5uzStDFGWgkVm)
 - 
