@@ -122,7 +122,8 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [Handle Array Key](https://stackoverflow.com/questions/16675753/fastest-way-to-handle-undefined-array-key)
 - (Code) `array_key_exists()`
 
-14. Sql Table Query Statement (Learn from Bro-Code)
+14. Sql Table Query Statement (All Learn from Bro-Code Youtube Channel)
 - Only table data delete table steel lives (truncate table)
 - ![only table data delete table steel lives](Screenshot_3.png)
-- 
+- find customer with name. only one row to show
+- ![find customer with name](Screenshot_1.png)
