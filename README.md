@@ -109,3 +109,10 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [Freehosting](https://freehosting.com/)
 - [InfinityFree](https://www.infinityfree.com/)
 - [netlify](https://www.netlify.com/)
+
+12. PHP File input
+- (Document link Given By Julius Bhai)[https://www.tutorialspoint.com/php-files]
+- (Code Given by Jannat Lam) `$image = $_FILES['image']['name'];
+    $image_size = $_FILES['image']['size'];
+    $image_tmp_name = $_FILES['image']['tmp_name'];
+    $image_folder = 'uploaded_img/' . $image;`
