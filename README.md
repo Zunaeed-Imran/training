@@ -117,3 +117,7 @@ training from slack training channel LEAD BY JULIUS BROTHER.
        $image_size = $_FILES['image']['size'];
        $image_tmp_name = $_FILES['image']['tmp_name'];
        $image_folder = 'uploaded_img/' . $image; ```
+
+13. Array (Given by Jannat Lam)
+- [Handle Array Key](https://stackoverflow.com/questions/16675753/fastest-way-to-handle-undefined-array-key)
+- (Code) `array_key_exists()`
