@@ -112,7 +112,8 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 
 12. PHP File input
 - (Document link Given By Julius Bhai)[https://www.tutorialspoint.com/php-files]
-- (Code Given by Jannat Lam) `$image = $_FILES['image']['name'];
+- (Code Given by Jannat Lam) 
+    `$image = $_FILES['image']['name'];
     $image_size = $_FILES['image']['size'];
     $image_tmp_name = $_FILES['image']['tmp_name'];
     $image_folder = 'uploaded_img/' . $image;`
