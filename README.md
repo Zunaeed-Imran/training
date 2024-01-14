@@ -88,3 +88,13 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 8. HTML (All Given By Julius Bhai)
 - [HTML Tutorial for Beginners: HTML Crash Course](https://youtu.be/qz0aGYrrlhU?si=vZSg9fI4Bj0MEm_W)
 - [Learn HTML in 1 hour](https://youtu.be/HD13eq_Pmp8?si=7P9H9cJm6OWsGJEI)
+
+9. Microsoft Word (All Given By Julius Brother)
+- [Microsoft Word in Just 30 minutes in 2023 | Complete Word Tutorial in Bangla](https://youtu.be/QXu9AGTIxrM?si=oEH12SgffnmHIdl2)
+- [Microsoft Word Tutorial Bangla | MS word tutorials for beginners | Complete word Tutorial Bangla](https://youtu.be/8gqRZM_jgVc?si=Z8cpnoXE349xrajv)
+- [Microsoft Word Tutorial](https://youtu.be/Cw6a3b5QoAs?si=rVH1_eSXvIlhJU-4)
+- [Beginner's Guide to Microsoft Word](https://youtu.be/S-nHYzK-BVg?si=FK-g3nGNH7VDyieu)
+- [Microsoft Excel Tutorial in 15 min](https://youtu.be/LgXzzu68j7M?si=4FKZKXfhWCbSzlEX)
+- [Introduction to Microsoft Excel - Excel Basics Tutorial](https://youtu.be/fcbB0nkDik8?si=RvnNr9XRawu_SsOI)
+- [Microsoft Excel Tutorial - Beginners Level 1](https://youtu.be/k1VUZEVuDJ8?si=t-_z4wrHCGgUU66S)
+- [Excel Full Bangla Tutorial | Complete Microsoft Excel Tutorial in Bangla](https://youtu.be/tvph9RuZvUg?si=GwOMNIkXmZcBEzKz)
