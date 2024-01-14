@@ -129,3 +129,6 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - ![find customer with name](Screenshot_1.png)
 - Show customer with Two property name
 - ![Show customer with Two property name](Screenshot_2.png)
+
+15. PHP Object function
+- ![php function](Screenshot%20from%202023-08-28%2023-29-07.png)
