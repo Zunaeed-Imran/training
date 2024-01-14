@@ -64,3 +64,10 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [PHP For Beginners | 3+ Hour Crash Course](https://youtu.be/BUCiSSyIGGU?si=wLdTwAvXQavJ9vJR)
 - [Full PHP 8 Tutorial - Learn PHP The Right Way In 2023](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=cvGhwsL9qiOGeAtH)
 - [PHP Course With Blog Project In Bangla](https://youtube.com/playlist?list=PLaCUFUZ_YQwVGxKqjXaQcWEeTMIWeEFjX&si=m0OIp0DTR8qFJgyR)
+
+6. SQL Query (All Given By Julius Brother)
+- [Complete SQL Query in One Video | SQL Tutorial for Beginners| Complete MYSQL Query in One Video 2023](https://youtu.be/Tdl7CGnhPeA?si=EvZlr0vD0B6w3skj)
+- [Learn SQL In 60 Minutes](https://youtu.be/p3qvj9hO_Bo?si=0Jqh5oSjjPrCu_6y)
+- [SQL Basics for Beginners | Learn SQL | SQL Tutorial for Beginners | Edureka](https://youtu.be/zbMHLJ0dY4w?si=d5qOzG7M1R-pS2Hu)
+- [MySQL Tutorial for Beginners [Full Course]](https://youtu.be/7S_tz1z_5bA?si=VOpz6Al-50htzmyu)
+- [MySQL Full Course for free :dolphin: (2023)](https://youtu.be/5OdVJbNCSso?si=JFq4GjocTrrIXIe7)
