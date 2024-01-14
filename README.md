@@ -85,3 +85,6 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - Count
 - Join
 
+8. HTML (All Given By Julius Bhai)
+- [HTML Tutorial for Beginners: HTML Crash Course](https://youtu.be/qz0aGYrrlhU?si=vZSg9fI4Bj0MEm_W)
+- [Learn HTML in 1 hour](https://youtu.be/HD13eq_Pmp8?si=7P9H9cJm6OWsGJEI)
