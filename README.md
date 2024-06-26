@@ -132,3 +132,8 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 
 15. PHP Object function
 - ![php function](Screenshot%20from%202023-08-28%2023-29-07.png)
+
+16. JavaScript Tutorial given by Julius Bhai
+- [JavaScript Basics Course](https://youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5&si=idaOnwNRAtMRT2Jl)
+- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://youtu.be/W6NZfCO5SIk?si=grb8bhXI3AKK8LnB)
+- [JavaScript Bangla Tutorial | JS Bangla Tutorial Series for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy&si=HCyp0y1cjCk4GSxJ)
