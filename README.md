@@ -137,3 +137,5 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [JavaScript Basics Course](https://youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5&si=idaOnwNRAtMRT2Jl)
 - [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://youtu.be/W6NZfCO5SIk?si=grb8bhXI3AKK8LnB)
 - [JavaScript Bangla Tutorial | JS Bangla Tutorial Series for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy&si=HCyp0y1cjCk4GSxJ)
+
+17. namta practice with for loop, in file 'namta.js' (Code Written by Julius Bhai)
