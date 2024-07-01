@@ -139,3 +139,7 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [JavaScript Bangla Tutorial | JS Bangla Tutorial Series for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy&si=HCyp0y1cjCk4GSxJ)
 
 17. namta practice with for loop, in file 'namta.js' (Code Written by Julius Bhai)
+
+18. Laravel and PHP Tutorial (Givne by Julius bhai).
+- [PHP For Beginners - Complete Laracasts Course](https://youtu.be/fw5ObX8P6as?si=nCdiz0qc9RQzvd8i)
+- [30 Days to Learn Laravel - Complete 8 Hour Course](https://youtu.be/SqTdHCTWqks?si=3-Qw3TTaSVCOcKf7)
