@@ -143,3 +143,6 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 18. Laravel and PHP Tutorial (Givne by Julius bhai).
 - [PHP For Beginners - Complete Laracasts Course](https://youtu.be/fw5ObX8P6as?si=nCdiz0qc9RQzvd8i)
 - [30 Days to Learn Laravel - Complete 8 Hour Course](https://youtu.be/SqTdHCTWqks?si=3-Qw3TTaSVCOcKf7)
+
+19. JavaScript Crash Course For Beginners(Given by Julius Bhai)
+- [JavaScript Crash Course For Beginners](https://youtu.be/hdI2bqOjy3c?si=u3yTBuawxzwy3Qri)
