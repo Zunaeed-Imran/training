@@ -149,3 +149,8 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 
 20. Dead simple wildcard DNS for any IP Address.
 - [ custom hostname and IP address mappings.](https://nip.io/)
+
+21. Top 3 pin video for training in the training channel.
+- [PHP](https://youtu.be/fw5ObX8P6as?si=Tjap6PeyRGf6ULKv)
+- [JavaScript](https://youtu.be/hdI2bqOjy3c?si=mf_fMhB5SJFoX1Yl)
+- [Laravel](https://youtu.be/SqTdHCTWqks?si=8cPsQQ9RIDNugnhh)
