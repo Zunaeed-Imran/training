@@ -146,3 +146,6 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 
 19. JavaScript Crash Course For Beginners(Given by Julius Bhai)
 - [JavaScript Crash Course For Beginners](https://youtu.be/hdI2bqOjy3c?si=u3yTBuawxzwy3Qri)
+
+20. Dead simple wildcard DNS for any IP Address.
+- [ custom hostname and IP address mappings.](https://nip.io/)
