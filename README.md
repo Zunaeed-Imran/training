@@ -154,3 +154,6 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 - [PHP](https://youtu.be/fw5ObX8P6as?si=Tjap6PeyRGf6ULKv)
 - [JavaScript](https://youtu.be/hdI2bqOjy3c?si=mf_fMhB5SJFoX1Yl)
 - [Laravel](https://youtu.be/SqTdHCTWqks?si=8cPsQQ9RIDNugnhh)
+
+22. TypeScript Tutorial (Given by Dip Da).
+- [Bangla playlist tutorial](https://youtube.com/playlist?list=PL2ozzDVxiDaeKS2Jysv1xCAXe0NszYyzE&si=UzCqvgKr99AfYXGD)
