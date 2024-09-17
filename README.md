@@ -157,3 +157,6 @@ training from slack training channel LEAD BY JULIUS BROTHER.
 
 22. TypeScript Tutorial (Given by Dip Da).
 - [Bangla playlist tutorial](https://youtube.com/playlist?list=PL2ozzDVxiDaeKS2Jysv1xCAXe0NszYyzE&si=UzCqvgKr99AfYXGD)
+
+23. Tailwind grid learn properly.
+- [Tailwind layout](https://youtu.be/rbSPe1tJowY?si=wPwfyEILbV8oyK5G)
